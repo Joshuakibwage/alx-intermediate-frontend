@@ -39,19 +39,8 @@ By working through this project, I aimed to:
 
 
 These attributes improve how assistive technologies interpret and interact with your UI, helping create inclusive web experiences for all users.
-🚀 Getting Started
 
-To explore the project locally:
 
-git clone https://github.com/yourusername/alx-intermediate-frontend.git
-cd alx-intermediate-frontend/semantic-html
-
-Then, open index.html in your browser or use a live server extension in your code editor.
-🧰 Tools & Technologies
-
-    HTML5
-
-    ARIA (WAI-ARIA specification)
 
 
 
